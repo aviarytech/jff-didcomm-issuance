@@ -1,0 +1,9 @@
+{
+  "type": "https://didcomm.org/out-of-band/2.0/invitation",
+  "id": "f137e0db-db7b-4776-9530-83c808a34a42",
+  "from": "did:example:issuer",
+  "body": {
+    "goal_code": "streamlined-vc",
+    "accept": ["didcomm/v2"]
+  }
+}

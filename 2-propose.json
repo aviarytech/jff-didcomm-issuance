@@ -1,0 +1,7 @@
+{
+  "type": "https://didcomm.org/issue-credential/3.0/propose-credential",
+  "id": "7f62f655-9cac-4728-854a-775ba6944593",
+  "pthid": "f137e0db-db7b-4776-9530-83c808a34a42",
+  "from": "did:example:holder",
+  "to": ["did:example:issuer"]
+}
